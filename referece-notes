@@ -1,0 +1,7 @@
+To initiate CMake:
+Ctrl + Shift + P → CMake: >CMake:configure
+
+Set build target: Ctrl + Shift + P → CMake: Set Build Target → choose proj2
+Set Launch/Debug target: Ctrl + Shift + P → CMake: Set Launch/Debug Target → choose proj2
+
+Then run the program from the status bar below

@@ -1,0 +1,11 @@
+{
+  "cmake.sourceDirectory": "C:/Users/slsrl/OneDrive/Documents/Codebase/New folder/system-design",
+  "cmake.buildDirectory": "${workspaceFolder}/build",
+  "cmake.generator": "Ninja",
+  "cmake.configureOnOpen": true,
+  "files.exclude": {
+  "**/build": true
+  },
+  "search.useIgnoreFiles": true,
+  "explorer.excludeGitIgnore": true
+}
